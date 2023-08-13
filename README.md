@@ -1,0 +1,2 @@
+# aigc
+study of aigc
